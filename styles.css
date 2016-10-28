@@ -1,0 +1,22 @@
+body {
+  font-size: 1.5em;
+  font-family: Arial;
+}
+#js{
+  padding: 20px;
+  background: #ffffcc;
+}
+#html {
+  padding: 20px;
+  background: #ccffff;
+}
+#react {
+  padding: 20px;
+  background: #ffccff;
+}
+#date {
+  color: blue;
+}
+#nums {
+  color: red;
+}
