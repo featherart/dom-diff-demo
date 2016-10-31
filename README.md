@@ -4,7 +4,7 @@ React is a library for building UI components. It is very simple and lightweight
 
 Features of React that we've probably all heard about:
 
-### 1. Shadow DOM & DOM diffing
+### 1. Virtual DOM & DOM diffing
 ### 2. Declarative style of code
 ### 3. Learn once, write anywhere
 
